@@ -14,10 +14,10 @@
 ### Bouche
 
 ### Support Batterie
-| <a href="img/Support_Batterie_1.JPG"><img src="img/Support_Batterie_1.JPG" width="100%"></a>|<a href="img/Support_Batterie_2.JPG"><img src="img/Support_Batterie_2.JPG" width="100%" ></a>|
+| <a href="img/Support_Batterie_1.JPG"><img src="img/Support_Batterie_1.JPG" width="70%"></a>|<a href="img/Support_Batterie_2.JPG"><img src="img/Support_Batterie_2.JPG" width="70%" ></a>|
 |-----|-----|
 
-| <a href="Support_Batteie_1.JPG"><img src="photos/Support_Bat_1.JPG" width="100%"></a>|<a href="Support_Batteie_2.JPG"><img src="img/Support_Batteie_2.JPG" width="100%" ></a>|<a href="Support_Batteie_2.JPG"><img src="img/Support_Batteie_2.JPG" width="100%" ></a>|
+| <a href="Support_Batteie_1.JPG"><img src="photos/Support_Bat_1.JPG" width="100%"></a> | <a href="Support_Batteie_2.JPG"><img src="photos/Support_Bat_2.JPG" width="100%"></a> | <a href="Support_Batteie_3.JPG"><img src="photos/Support_Bat_3.JPG" width="100%"></a> |
 |-----|-----|-----|
 
 
