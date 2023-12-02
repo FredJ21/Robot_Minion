@@ -9,7 +9,7 @@
 
 ### Vue d'ensemble
 
-![Part_List](docs/part_list_1.png)
+![Part_List](docs/Part_List_1.png)
 
 
 
