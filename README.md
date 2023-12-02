@@ -9,7 +9,7 @@
 
 ### Vue d'ensemble
 
-<a><img src="docs/Part_List_1.png" width="100%"></a>
+<a><img src="docs/Part_List_1.png"></a>
 
 
 ### l'oeil
