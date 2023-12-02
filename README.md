@@ -6,19 +6,24 @@
 
 
 
+
 ### Vue d'ensemble
 
+![Part_List](docs/part_list_1.png)
 
-### Oeil
 
-### Bouche
+
+### l'oeil
+
+### La bouche
 
 ---
-### Support Batterie
+### Le support de batterie
 ***Liens & info*** :
 - Batterie Parkside PAP 20 B3 - 20 V 4000mAh 80wh
 - Chargeur Parkside PLG 20 C3
-- petites lamelles en cuivre étamé
+- petites lamelles en cuivre étamées ( réalisé avec un vieux tube de cuivre de plomberie )
+- quelques vis M4
 
 ***Fichiers 3D*** :
 - [Support_Batterie_up.stl](3D_STL/Support_Batterie_up.stl)
