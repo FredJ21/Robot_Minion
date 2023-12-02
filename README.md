@@ -13,7 +13,19 @@
 
 ### Bouche
 
+---
 ### Support Batterie
+***Liens & info*** :
+- Batterie Parkside PAP 20 B3 - 20 V 4000mAh 80wh
+- Chargeur Parkside PLG 20 C3
+- petites lamelles en cuivre étamé
+
+***Fichiers 3D*** :
+- [Support_Batterie_up.stl](3D_STL/Support_Batterie_up.stl)
+- [Support_Batterie_down.stl](3D_STL/Support_Batterie_down.stl)
+- source : [Support_Batterie_Parkside.f3d](3D_Fusion360/)
+
+
 | <a href="img/Support_Batterie_1.JPG"><img src="img/Support_Batterie_1.JPG" width="70%"></a>|<a href="img/Support_Batterie_2.JPG"><img src="img/Support_Batterie_2.JPG" width="70%" ></a>|
 |-----|-----|
 
