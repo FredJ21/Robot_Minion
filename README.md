@@ -7,7 +7,24 @@
 
 <table  width="100%"><tbody>
 <tr>
-   <td width="80%"><img src="docs/Part_List-3D.png"></td>
+   <td width="70%"><img src="docs/Part_List-3D.png"></td>
+   <td align="left">
+   1. Cheveux avec quelques bouts de TPU<br>
+   2. <br>
+   3. ligne 3<br>
+
+   </td>
+ </tr>
+</tbody></table>
+
+Fichiers STL, pour l'impression 3D --> [3D_STL]
+Fichiers sources, au format Fusion 360 --> [3D_Fusion360]
+
+
+***Autres Pièces***
+<table  width="100%"><tbody>
+<tr>
+   <td width="70%"><img src="docs/Part_List-Other.png"></td>
    <td align="left">
    1 - ligne 1<br>
    2 - ligne 2<br>
@@ -17,7 +34,6 @@
  </tr>
 </tbody></table>
 
-***Autres Pièces***
 
 
 
