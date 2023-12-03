@@ -126,7 +126,7 @@ L'épaule est réalisée en impression 3D avec un servo moteur 30/35Kg et 2 roul
 ## Présentation du projet lors de l'ApéroBot 0x90 - le 11 octobre 2023
 <a href="https://youtu.be/tXXc-RWyAaM"><img src="photos/Aperobot_0x90.JPG"  width="600" target="_blank"></a><br>
 - https://youtu.be/tXXc-RWyAaM
-- Slides de présentation: [202310_Caliban_Robot_MINION.pptx](docs/202310_Caliban_Robot_MINION.pptx)
+- Slides de présentation: [202310_Caliban_Robot_MINION.pptx](https://docs.google.com/presentation/d/1i7fHR1yLxM-sZlLi-bkuZh3kFmp7REDd2zA3NFKi7cQ/)
 
 ---
 
