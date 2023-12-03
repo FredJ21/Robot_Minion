@@ -64,6 +64,19 @@
 ### L'oeil
 ---
 ### La bouche
+
+La bouche est réalisée avec 2 servos moteurs, quelques pièces imprimées, et un petit "boudin" de silicone 
+
+- Piéces imprimées --> [3D_STL](3D_STL)
+  - support pour les 2 moteurs
+  - 2 bras
+  - le couvercle
+- Fichiers sources, au format Fusion 360 --> [3D_Fusion360](3D_Fusion360)
+
+<img src="photos/Bouche_1.JPG" width="30%"> -
+<img src="photos/Bouche_2.JPG" width="30%"> -
+<img src="photos/Bouche_3.JPG" width="30%">
+
 ---
 ### Le mécanisme de l'épaule
 
