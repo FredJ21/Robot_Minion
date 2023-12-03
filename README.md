@@ -1,7 +1,16 @@
 # Projet Robot MINION
 ***intro***
 
+<table  width="100%"><tbody>
+<tr>
+<td align="center" width="50%"><img width="100%"src="img/famille.png"></td>
+<td align="center" width="30%"><a href="https://youtube.com/shorts/Kb3ByDOdsDA"><img src="photos/Minion_Nantes2023.JPG"></a>https://youtube.com/shorts/Kb3ByDOdsDA</td>
+
+</tr>
+</tbody></table>   
+
 ---
+
 ### Liste des pièces
 ***Pièces réalisées en impression 3D***
 
@@ -112,13 +121,20 @@ L'épaule est réalisée en impression 3D avec un servo moteur 30/35Kg et 2 roul
 |-----|-----|-----|
 
 
-
 ---
+
 ## Présentation du projet lors de l'ApéroBot 0x90 - le 11 octobre 2023
 <a href="https://youtu.be/tXXc-RWyAaM"><img src="photos/Aperobot_0x90.JPG"  width="600" target="_blank"></a><br>
-https://youtu.be/tXXc-RWyAaM
+- https://youtu.be/tXXc-RWyAaM
+- Slides de présentation: [202310_Caliban_Robot_MINION.pptx](docs/202310_Caliban_Robot_MINION.pptx)
 
-Slides de présentation: [202310_Caliban_Robot_MINION.pptx](docs/202310_Caliban_Robot_MINION.pptx)
+---
+
+## Le projet MINION au JT de France 3 Pays De La Loire
+- JT du 7 Juillet 2023 - Nantes Maker Campus 2023
+
+<a href="https://youtu.be/sHJWs27naQQ"><img src="photos/France3.JPG"  width="600" target="_blank"></a><br>
+- https://youtu.be/sHJWs27naQQ
 
 ---
 ### Authors
