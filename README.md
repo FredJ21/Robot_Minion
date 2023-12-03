@@ -9,8 +9,8 @@
 <tr>
    <td width="70%"><img src="docs/Part_List-3D.png"></td>
    <td align="left">
-   1 - *Cheveux* avec quelques bouts de TPU<br>
-   2 - <br>
+   1 - <strong>Cheveux</strong> avec quelques bouts de TPU<br>
+   2 - <a href="3D_STL/Chapeau.stl">Chapeau</a> & Couvercles<br>
    3 - ligne 3<br>
 
    </td>
