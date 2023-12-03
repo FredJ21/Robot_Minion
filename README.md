@@ -67,6 +67,15 @@
 ---
 ### Le mécanisme de l'épaule
 
+L'épaule est réalisée en impression 3D avec un servo moteur 30/35Kg et 2 roulements
+
+- <strong>Servos moteurs</strong> numériques 30/35Kg.cm 180 degrés <a href="https://fr.aliexpress.com/item/32826867656.html">aliexpress.com...</a> <br>
+- <strong>Roulements</strong> 30x37x4mm  <a href="https://www.amazon.fr/gp/product/B09SCMJTPJ/ref=ppx_yo_dt_b_search_asin_title">amazon.fr...</a> <br>
+- 3 piéces imprimées --> [3D_STL](3D_STL)
+- Fichiers sources, au format Fusion 360 --> [3D_Fusion360](3D_Fusion360)
+
+<img src="img/Epaule.gif" width="70%">
+
 ---
 ### Le support de batterie
 ***Liens & info*** :
