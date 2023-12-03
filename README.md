@@ -7,7 +7,7 @@
 
 <table  width="100%"><tbody>
 <tr>
-   <td width="70%"><img src="docs/Part_List-3D.png"></td>
+   <td width="60%"><img src="docs/Part_List-3D.png"></td>
    <td align="left">
    1 - <strong>Cheveux</strong> avec quelques bouts de TPU<br><br>
    2 - <a href="3D_STL/Chapeau.stl">Chapeau</a> & Couvercles<br><br>
