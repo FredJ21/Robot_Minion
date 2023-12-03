@@ -9,20 +9,21 @@
 <tr>
    <td width="60%"><img src="docs/Part_List-3D.png"></td>
    <td align="left">
-   1 - <strong>Cheveux</strong> avec quelques bouts de TPU<br>
-   2 - <a href="3D_STL/Chapeau.stl">Chapeau</a> & Couvercles<br>
-   3 - L'<strong>oeil</strong> (voir plus bas) et la <a href="3D_STL/Lunette.stl">lunette</a><br>
-   4 - <a href="3D_STL/Plateau_oeil_v2.stl">Plateau_oeil</a><br>
-   5 - La <strong>bouche</strong> (voir plus bas)<br>
-   6 - <a href="3D_STL/Plateau_2.stl">Plateau 2</a><br>
-   7 - L'<strong>épaule</strong> (voir plus bas)<br>
-   8 - <a href="3D_STL/Support_RPI.stl">Support Raspberry PI</a><br>
-   9 - Haut parleur(*) et son <a href="3D_STL/HP_box.stl">support</a><br>
-   10 - <a href="3D_STL/Plateau_3.stl">Plateau 3</a><br>
-   11 - <strong>Batterie</strong> et sa base d'acceuil (voir plus bas)<br>
+   1 - L'<strong>oeil</strong> (voir plus bas) et la <a href="3D_STL/Lunette.stl">lunette</a><br>
+   2 - La <strong>bouche</strong> (voir plus bas)<br>
+   3 - Haut parleur(*) et son <a href="3D_STL/HP_box.stl">support</a><br>
+   4 - <strong>Batterie</strong> et sa base d'acceuil (voir plus bas)<br>
+   5 - <strong>Cheveux</strong> avec quelques bouts de TPU<br>
+   6 - <a href="3D_STL/Chapeau.stl">Chapeau</a> & Couvercles<br>
+   7 - <a href="3D_STL/Plateau_oeil_v2.stl">Plateau_oeil</a><br>
+   8 - <a href="3D_STL/Plateau_2.stl">Plateau 2</a><br>
+   9 - L'<strong>épaule</strong> (voir plus bas)<br>
+   10 - <a href="3D_STL/Support_RPI.stl">Support Raspberry PI</a><br>
+   11 - <a href="3D_STL/Plateau_3.stl">Plateau 3</a><br>
    12 - Boutons de commande sur <a href="3D_STL/Power_button.stl">support</a> <br>
    13 - <a href="3D_STL/Support_D37.stl">Supports de moteur</a><br>
-   14 - Support de roues libres <a href="3D_STL/Support_Roue_Libre_R.stl">droite</a> et  <a href="3D_STL/Support_Roue_Libre_L.stl">gauche</a>
+   14 - Support de roues libres <a href="3D_STL/Support_Roue_Libre_R.stl">droite</a> et  <a href="3D_STL/Support_Roue_Libre_L.stl">gauche</a><br>
+   <br><br>
 
    </td>
  </tr>
@@ -39,11 +40,15 @@
 ***Autres Pièces***
 <table  width="100%"><tbody>
 <tr>
-   <td width="70%"><img src="docs/Part_List-Other.png"></td>
+   <td width="60%"><img src="docs/Part_List-Other.png"></td>
    <td align="left">
-   1 - ligne 1<br>
+   1 - 4 profils en aluminium anodisé 1515 - 550mm de long https://fr.aliexpress.com/item/1005004071352633.html <br>
+
    2 - ligne 2<br>
    3 - ligne 3<br>
+
+   6 - Regulateur UBEC 7A https://fr.aliexpress.com/item/32574612952.html <br>
+
 
    </td>
  </tr>
