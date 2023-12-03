@@ -8,11 +8,27 @@
 
 
 ### Vue d'ensemble
+<table  width="100%"><tbody>
+<tr>
+   <td width="80%"><img src="docs/Part_List_1.png"></td>
+   <td align="left">
+   1 - ligne 1<br>
+   2 - ligne 2<br>
+   3 - ligne 3<br>
 
-<a><img src="docs/Part_List_1.png"></a>
+   </td>
+ </tr>
+</tbody></table>
 
+
+|<img src="docs/Part_List_1.png">|  <ol><li>fruits</li><li>fruits</li></ol>|
+|-----|-----|
+
+
+---
 
 ### l'oeil
+---
 
 ### La bouche
 
@@ -69,4 +85,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ### Copyright
-Copyright (c) 2021 Frederic JELMONI
+Copyright (c) 2023 Frederic JELMONI
