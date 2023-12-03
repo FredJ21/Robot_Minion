@@ -42,9 +42,9 @@
 <tr>
    <td width="60%"><img src="docs/Part_List-Other.png"></td>
    <td align="left">
-   1 - <strong>4 profils</strong> en aluminium anodisé 1515 - 550mm de long <a href="https://fr.aliexpress.com/item/1005004071352633.html">aliexpress.com...</a><br>
-   2 - <strong>Servos moteurs</strong> numériques 30/35Kg.cm 180 degrés <a href="https://fr.aliexpress.com/item/32826867656.html">aliexpress.com...</a> <br>
-   3 - <strong>Plateau</strong> de bois médium 6mm réalisé en découpe laser <a href="2D/Chassis_v4.svg">fichier svg</a> & dxf <br>
+   (1) - <strong>4 profils</strong> en aluminium anodisé 1515 - 550mm de long <a href="https://fr.aliexpress.com/item/1005004071352633.html">aliexpress.com...</a><br>
+   (2) - <strong>Servos moteurs</strong> numériques 30/35Kg.cm 180 degrés <a href="https://fr.aliexpress.com/item/32826867656.html">aliexpress.com...</a> <br>
+   (3) - <strong>Plateau</strong> de bois médium 6mm réalisé en découpe laser <a href="2D/Chassis_v4.svg">fichier svg</a> & dxf <br>
    4 - <strong>Roulettes</strong> Luminescent Chaise Gamer <a href="https://www.amazon.fr/gp/product/B09N95T18G">amazon.fr...</a><br>
    5 - <strong>Bras</strong> en mousse (d'isolation thermique en plomberie) diam 35mm <br>
    6 - <strong>Regulateur</strong> UBEC 7A <a href="https://fr.aliexpress.com/item/32574612952.html">aliexpress.com...</a> <br>
