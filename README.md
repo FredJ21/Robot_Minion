@@ -136,6 +136,7 @@ L'épaule est réalisée en impression 3D avec un servo moteur 30/35Kg et 2 roul
 <a target="_blank" href="https://youtu.be/sHJWs27naQQ" ><img src="photos/France3.jpg"  width="600"></a><br>
 - https://youtu.be/sHJWs27naQQ
 
+[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
 ---
 ### Authors
 Frederic JELMONI
