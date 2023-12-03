@@ -133,7 +133,7 @@ L'épaule est réalisée en impression 3D avec un servo moteur 30/35Kg et 2 roul
 ## Le projet MINION au JT de France 3 Pays De La Loire
 - JT du 7 Juillet 2023 - Nantes Maker Campus 2023
 
-<a href="https://youtu.be/sHJWs27naQQ"><img src="photos/France3.JPG"  width="600" target="_blank"></a><br>
+<a href="https://youtu.be/sHJWs27naQQ"><img src="photos/France3.jpg"  width="600" target="_blank"></a><br>
 - https://youtu.be/sHJWs27naQQ
 
 ---
