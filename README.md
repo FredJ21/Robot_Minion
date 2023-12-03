@@ -1,16 +1,13 @@
 # Projet Robot MINION
+***intro***
 
+---
+### Liste des pièces
+***Pièces réalisées en impression 3D***
 
-
-
-
-
-
-
-### Vue d'ensemble
 <table  width="100%"><tbody>
 <tr>
-   <td width="80%"><img src="docs/Part_List_1.png"></td>
+   <td width="80%"><img src="docs/Part_List-3D.png"></td>
    <td align="left">
    1 - ligne 1<br>
    2 - ligne 2<br>
@@ -20,14 +17,13 @@
  </tr>
 </tbody></table>
 
+***Autres Pièces***
 
-|<img src="docs/Part_List_1.png">|  <ol><li>fruits</li><li>fruits</li></ol>|
-|-----|-----|
 
 
 ---
 
-### l'oeil
+### L'oeil
 ---
 
 ### La bouche
