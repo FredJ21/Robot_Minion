@@ -11,7 +11,7 @@
    <td align="left">
    (1) - L'<strong>oeil</strong> (voir plus bas) et la <a href="3D_STL/Lunette.stl">lunette</a><br>
    (2) - La <strong>bouche</strong> (voir plus bas)<br>
-   (3) - Haut parleur(*) et son <a href="3D_STL/HP_box.stl">support</a><br>
+   (3) - <a href="3D_STL/HP_box.stl">Support du haut parleur</a><br>
    (4) - <strong>Batterie</strong> et sa base d'acceuil (voir plus bas)<br>
    (5) - <strong>Cheveux</strong> avec quelques bouts de TPU<br>
    (6) - <a href="3D_STL/Chapeau.stl">Chapeau</a> & Couvercles<br>
@@ -33,7 +33,7 @@
 - Fichiers sources, au format Fusion 360 --> [3D_Fusion360](3D_Fusion360)
 
 
-(*) Haut-parleurs NORAUTO SOUND HP-100X Coaxial ( <a href="https://www.norauto.fr/p/haut-parleurs-norauto-sound-hp-100x-coaxial-2166455.html">ici</a> )
+
 
 
 
@@ -44,13 +44,14 @@
    <td align="left">
    (1) - <strong>4 profils</strong> en aluminium anodisé 1515 - 550mm de long <a href="https://fr.aliexpress.com/item/1005004071352633.html">aliexpress.com...</a><br>
    (2) - <strong>Servos moteurs</strong> numériques 30/35Kg.cm 180 degrés <a href="https://fr.aliexpress.com/item/32826867656.html">aliexpress.com...</a> <br>
-   (3) - <strong>Plateau</strong> de bois médium 6mm réalisé en découpe laser <a href="2D/Chassis_v4.svg">fichier svg</a> & dxf <br>
-   (4) - <strong>Roulettes</strong> Luminescent Chaise Gamer <a href="https://www.amazon.fr/gp/product/B09N95T18G">amazon.fr...</a><br>
-   (5) - <strong>Bras</strong> en mousse (d'isolation thermique en plomberie) diam 35mm <br>
-   (6) - <strong>Regulateur</strong> UBEC 7A <a href="https://fr.aliexpress.com/item/32574612952.html">aliexpress.com...</a> <br>
-   (7) - Petits gants pour les <strong>mains</strong> <a href="https://www.amazon.fr/gp/product/B0B7MNNZBG">amazon.fr...</a> <br>
-   (8) - <strong>Roues</strong> dim 125mm <a href="https://www.leroymerlin.fr/produits/quincaillerie/quincaillerie-du-meuble/roue-et-roulette/roulette-de-meuble/roue-fixe-sur-axe-diam-125-mm-82629474.html">leroymerlin.fr...</a><br>
-   (9) - <strong>Moteurs</strong> D37 CC à Brosses 12V 100 RPM 166 oz-in <a href="https://eu.robotshop.com/fr/products/12v-100rpm-166-oz-in-brushed-dc-motor">robotshop.com...</a><br>
+   (3) - Haut-parleur 20 watts RMS (<a href="https://www.norauto.fr/p/haut-parleurs-norauto-sound-hp-100x-coaxial-2166455.html">norauto.fr...</a>) <br>
+   (4) - <strong>Plateau</strong> de bois médium 6mm réalisé en découpe laser <a href="2D/Chassis_v4.svg">fichier svg</a> & dxf <br>
+   (5) - <strong>Roulettes</strong> Luminescent Chaise Gamer <a href="https://www.amazon.fr/gp/product/B09N95T18G">amazon.fr...</a><br>
+   (6) - <strong>Bras</strong> en mousse (d'isolation thermique en plomberie) diam 35mm <br>
+   (7) - <strong>Regulateur</strong> UBEC 7A <a href="https://fr.aliexpress.com/item/32574612952.html">aliexpress.com...</a> <br>
+   (8) - Petits gants pour les <strong>mains</strong> <a href="https://www.amazon.fr/gp/product/B0B7MNNZBG">amazon.fr...</a> <br>
+   (9) - <strong>Roues</strong> dim 125mm <a href="https://www.leroymerlin.fr/produits/quincaillerie/quincaillerie-du-meuble/roue-et-roulette/roulette-de-meuble/roue-fixe-sur-axe-diam-125-mm-82629474.html">leroymerlin.fr...</a><br>
+   (10) - <strong>Moteurs</strong> D37 CC à Brosses 12V 100 RPM 166 oz-in <a href="https://eu.robotshop.com/fr/products/12v-100rpm-166-oz-in-brushed-dc-motor">robotshop.com...</a><br>
 
    </td>
  </tr>
