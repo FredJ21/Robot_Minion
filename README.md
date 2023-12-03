@@ -11,8 +11,7 @@
 
 ---
 
-### Liste des pièces
-***Pièces réalisées en impression 3D***
+### Liste des pièces pièces réalisées en impression 3D
 
 <table  width="100%"><tbody>
 <tr>
@@ -41,12 +40,11 @@
 - Fichiers STL pour l'impression 3D --> [3D_STL](3D_STL)
 - Fichiers sources, au format Fusion 360 --> [3D_Fusion360](3D_Fusion360)
 
+---
 
 
+### Les autres pièces
 
-
-
-***Autres Pièces***
 <table  width="100%"><tbody>
 <tr>
    <td width="60%"><img src="docs/Part_List-Other.png"></td>
