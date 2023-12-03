@@ -12,17 +12,17 @@
    1 - <strong>Cheveux</strong> avec quelques bouts de TPU<br><br>
    2 - <a href="3D_STL/Chapeau.stl">Chapeau</a> & Couvercles<br><br>
    3 - L'<strong>oeil</strong> (voir plus bas) et la <a href="3D_STL/Lunette.stl">lunette</a><br><br>
-   4 - <a href="3D_STL/Plateau_oeil_v2.stl">Plateau_oeil</a><br>
-   5 - La <strong>bouche</strong> (voir plus bas)<br>
-   6 - <a href="3D_STL/Plateau_2.stl">Plateau 2</a><br>
-   7 - L'<strong>épaule</strong> (voir plus bas)<br>
-   8 - <a href="3D_STL/Support_RPI.stl">Support Raspberry PI</a><br>
-   9 - Haut parleur(*) et son <a href="3D_STL/HP_box.stl">support</a><br>
-   10 - <a href="3D_STL/Plateau_3.stl">Plateau 3</a><br>
-   11 - <strong>Batterie</strong> et sa base d'acceuil (voir plus bas)<br>
-   12 - Boutons de commande sur <a href="3D_STL/Power_button.stl">support</a> <br>
-   13 - <a href="3D_STL/Support_D37.stl">Supports de moteur</a><br>
-   14 - Support de roues libres <a href="3D_STL/Support_Roue_Libre_R.stl">droite</a> et  <a href="3D_STL/Support_Roue_Libre_L.stl">gauche</a><br>
+   4 - <a href="3D_STL/Plateau_oeil_v2.stl">Plateau_oeil</a><br><br>
+   5 - La <strong>bouche</strong> (voir plus bas)<br><br>
+   6 - <a href="3D_STL/Plateau_2.stl">Plateau 2</a><br><br>
+   7 - L'<strong>épaule</strong> (voir plus bas)<br><br>
+   8 - <a href="3D_STL/Support_RPI.stl">Support Raspberry PI</a><br><br>
+   9 - Haut parleur(*) et son <a href="3D_STL/HP_box.stl">support</a><br><br>
+   10 - <a href="3D_STL/Plateau_3.stl">Plateau 3</a><br><br>
+   11 - <strong>Batterie</strong> et sa base d'acceuil (voir plus bas)<br><br>
+   12 - Boutons de commande sur <a href="3D_STL/Power_button.stl">support</a> <br><br>
+   13 - <a href="3D_STL/Support_D37.stl">Supports de moteur</a><br><br>
+   14 - Support de roues libres <a href="3D_STL/Support_Roue_Libre_R.stl">droite</a> et  <a href="3D_STL/Support_Roue_Libre_L.stl">gauche</a>
 
    </td>
  </tr>
