@@ -11,7 +11,7 @@
 
 
 ### Sommaire
-* Liste des pièces pièces réalisées en impression 3D
+* Les pièces pièces réalisées en impression 3D
 * Les autres pièces
 * L'oeil
 * La bouche
@@ -25,7 +25,7 @@
 
 ---
 
-## Liste des pièces pièces réalisées en impression 3D
+## Les pièces pièces réalisées en impression 3D
 
 <table  width="100%"><tbody>
 <tr>
@@ -139,6 +139,7 @@ L'épaule est réalisée en impression 3D avec un servo moteur 30/35Kg et 2 roul
 - <strong>Roulements</strong> 30x37x4mm  <a href="https://www.amazon.fr/gp/product/B09SCMJTPJ/ref=ppx_yo_dt_b_search_asin_title">amazon.fr...</a> <br>
 - 3 piéces imprimées --> [3D_STL](3D_STL)
 - Fichiers sources, au format Fusion 360 --> [3D_Fusion360](3D_Fusion360)
+
 
 <table width="100%">
 <td align="center"><img src="img/Epaule.gif" width="60%"></td>
