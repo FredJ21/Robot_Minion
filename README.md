@@ -101,9 +101,9 @@ Il embarque une camera pour la carte Raspberry PI
 - une camera RPI grand angle 175° <a href="https://fr.aliexpress.com/item/32881466491.html">aliexpress.com...</a> <br>
 - <strong>2 Servos moteurs</strong> numériques 30/35Kg.cm 180 degrés <a href="https://fr.aliexpress.com/item/32826867656.html">aliexpress.com...</a> <br>
 
-
-<img align="center" src="img/oeil.JPG" width="90%">
-
+<table width="100%">
+<td align="center"><img src="img/oeil.JPG" width="70%"></td>
+</table>
 
 - Piéces imprimées --> [3D_STL](3D_STL)
 - Fichiers sources, au format Fusion 360 --> [3D_Fusion360](3D_Fusion360)
@@ -119,11 +119,15 @@ La bouche est réalisée avec 2 servos moteurs, quelques pièces imprimées, et 
   - le couvercle
 - Fichiers sources, au format Fusion 360 --> [3D_Fusion360](3D_Fusion360)
 
+<table width="100%">
+<td align="center">
 <img src="photos/Bouche_1.JPG" width="30%"> -
 <img src="photos/Bouche_2.JPG" width="30%"> -
-<img src="photos/Bouche_3.JPG" width="30%"><br>
-Hé Hé ! <br>
-<img src="photos/Bouche_meca.JPG" width="50%">
+<img src="photos/Bouche_3.JPG" width="30%">
+<img src="photos/Bouche_meca.JPG" width="40%">
+</td>
+</table>
+
 
 ---
 ## Le mécanisme de l'épaule
@@ -135,9 +139,13 @@ L'épaule est réalisée en impression 3D avec un servo moteur 30/35Kg et 2 roul
 - 3 piéces imprimées --> [3D_STL](3D_STL)
 - Fichiers sources, au format Fusion 360 --> [3D_Fusion360](3D_Fusion360)
 
-<img src="img/Epaule.gif" width="80%">
+<table width="100%">
+<td align="center"><img src="img/Epaule.gif" width="60%"></td>
+</table>
+
 
 ---
+
 ## Le support de batterie
 ***Liens & info*** :
 - Batterie Parkside PAP 20 B3 - 20 V 4000mAh 80wh
@@ -148,7 +156,9 @@ L'épaule est réalisée en impression 3D avec un servo moteur 30/35Kg et 2 roul
 
 ## L'électronique de commande
 
-<img src="docs/Part_List-Electro.png" width="80%">
+<table width="100%">
+<td align="center"><img src="docs/Part_List-Electro.png" width="70%"></td>
+</table>
 
 
 
