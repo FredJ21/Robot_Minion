@@ -154,18 +154,11 @@ L'épaule est réalisée en impression 3D avec un servo moteur 30/35Kg et 2 roul
 - quelques vis M4
 
 
-## L'électronique de commande
-
-<table width="100%">
-<td align="center"><img src="docs/Part_List-Electro.png" width="70%"></td>
-</table>
-
-
-
 ***Fichiers 3D*** :
 - [Support_Batterie_up.stl](3D_STL/Support_Batterie_up.stl)
 - [Support_Batterie_down.stl](3D_STL/Support_Batterie_down.stl)
 - source : [Support_Batterie_Parkside.f3d](3D_Fusion360/)
+
 
 
 | <a href="img/Support_Batterie_1.JPG"><img src="img/Support_Batterie_1.JPG" width="70%"></a>|<a href="img/Support_Batterie_2.JPG"><img src="img/Support_Batterie_2.JPG" width="70%" ></a>|
@@ -174,8 +167,46 @@ L'épaule est réalisée en impression 3D avec un servo moteur 30/35Kg et 2 roul
 | <a href="photos/Support_Bat_1.JPG"><img src="photos/Support_Bat_1.JPG" width="100%"></a> | <a href="photos/Support_Bat_2.JPG"><img src="photos/Support_Bat_2.JPG" width="100%"></a> | <a href="photos/Support_Bat_3.JPG"><img src="photos/Support_Bat_3.JPG" width="100%"></a> |
 |-----|-----|-----|
 
+---
+
+## L'électronique de commande
+
+L'électronique embarqué est composé principalement :
+- d'une carte Raspberry PI et d'HAT de commande moteur
+- d'un amplificateur audio
+- d'un module WiFi USB
+- de 2 regulateurs 5V afin séparer l'alimentation du RPI et des servos moteurs
+
+
+<table  width="100%"><tbody>
+<tr>
+   <td width="60%"><img src="docs/Part_List-Electro.png"></td>
+   <td align="left">
+   (1) - Une carte <strong>Raspberry PI</strong> 4 (ou 5 ! ) <a href="https://www.kubii.com/">www.kubii.com...</a><br>
+   (2) - Une carte d'amplificateur numérique <a href="https://www.amazon.fr/gp/product/B09PL6R1L7">amazon.fr...</a> <br>
+   (3) - Une carte WiFi USB (<a href="https://www.amazon.fr/gp/product/B0752CTSGD">amazon.fr...</a>) <br>
+   (4) - <strong>2 Régulateurs</strong> UBEC 7A <a href="https://fr.aliexpress.com/item/32574612952.html">aliexpress.com...</a> <br>
+
+   </td>
+ </tr>
+</tbody></table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
+
 
 ## Présentation du projet lors de l'ApéroBot 0x90 - le 11 octobre 2023
 <a href="https://youtu.be/tXXc-RWyAaM"><img src="photos/Aperobot_0x90.JPG"  width="600" target="_blank"></a><br>
