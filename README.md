@@ -102,7 +102,7 @@ Il embarque une camera pour la carte Raspberry PI
 - <strong>2 Servos moteurs</strong> numériques 30/35Kg.cm 180 degrés <a href="https://fr.aliexpress.com/item/32826867656.html">aliexpress.com...</a> <br>
 
 
-<img src="img/oeil.JPG" width="90%">
+<img align="center" src="img/oeil.JPG" width="90%">
 
 
 - Piéces imprimées --> [3D_STL](3D_STL)
@@ -144,6 +144,13 @@ L'épaule est réalisée en impression 3D avec un servo moteur 30/35Kg et 2 roul
 - Chargeur Parkside PLG 20 C3
 - petites lamelles en cuivre étamées ( réalisé avec un vieux tube de cuivre de plomberie )
 - quelques vis M4
+
+
+## L'électronique de commande
+
+<img src="docs/Part_List-Electro.png" width="80%">
+
+
 
 ***Fichiers 3D*** :
 - [Support_Batterie_up.stl](3D_STL/Support_Batterie_up.stl)
