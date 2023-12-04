@@ -17,6 +17,7 @@
 * La bouche
 * Le mécanisme de l'épaule
 * Le support de batterie
+* L'électronique de commande
 * Présentation du projet lors de l'ApéroBot 0x90 - le 11 octobre 2023
 * Le projet MINION au JT de France 3 Pays De La Loire
 
