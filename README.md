@@ -1,5 +1,5 @@
 # Projet Robot MINION
-***intro***
+### intro
 
 <table  width="100%"><tbody>
 <tr>
@@ -9,13 +9,13 @@
 </tr>
 </tbody></table>   
 
----
-# Sommaire
+
+### Sommaire
 * Liste des pièces pièces réalisées en impression 3D
 * Les autres pièces
 * L'oeil
 * La bouche
-* [Le mécanisme de l'épaule](#Le-mécanisme-de-l-épaule)
+* Le mécanisme de l'épaule
 * Le support de batterie
 * Présentation du projet lors de l'ApéroBot 0x90 - le 11 octobre 2023
 * Le projet MINION au JT de France 3 Pays De La Loire
@@ -129,7 +129,7 @@ L'épaule est réalisée en impression 3D avec un servo moteur 30/35Kg et 2 roul
 | <a href="img/Support_Batterie_1.JPG"><img src="img/Support_Batterie_1.JPG" width="70%"></a>|<a href="img/Support_Batterie_2.JPG"><img src="img/Support_Batterie_2.JPG" width="70%" ></a>|
 |-----|-----|
 
-| <a href="Support_Batteie_1.JPG"><img src="photos/Support_Bat_1.JPG" width="100%"></a> | <a href="Support_Batteie_2.JPG"><img src="photos/Support_Bat_2.JPG" width="100%"></a> | <a href="Support_Batteie_3.JPG"><img src="photos/Support_Bat_3.JPG" width="100%"></a> |
+| <a href="photos/Support_Batteie_1.JPG"><img src="photos/Support_Bat_1.JPG" width="100%"></a> | <a href="photos/Support_Batteie_2.JPG"><img src="photos/Support_Bat_2.JPG" width="100%"></a> | <a href="photos/Support_Batteie_3.JPG"><img src="photos/Support_Bat_3.JPG" width="100%"></a> |
 |-----|-----|-----|
 
 
