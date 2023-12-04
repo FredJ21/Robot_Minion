@@ -11,6 +11,16 @@
 
 ---
 # Sommaire
+* Liste des pièces pièces réalisées en impression 3D
+* Les autres pièces
+* L'oeil
+* La bouche
+* [Le mécanisme de l'épaule](#Le-mécanisme-de-l-épaule)
+* Le support de batterie
+* Présentation du projet lors de l'ApéroBot 0x90 - le 11 octobre 2023
+* Le projet MINION au JT de France 3 Pays De La Loire
+
+
 
 ---
 
