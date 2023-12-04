@@ -146,6 +146,11 @@ L'épaule est réalisée en impression 3D avec un servo moteur 30/35Kg et 2 roul
 </table>
 
 
+<table width="100%">
+<td align="center"><img src="img/oeil.JPG" width="70%"></td>
+</table>
+
+
 ---
 
 ## Le support de batterie
