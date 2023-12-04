@@ -87,7 +87,8 @@ L'oeil est réalisé en impression 3D avec poncage, peinture, et protection à l
 Il est articulé en X et Y autour d'un axe monté sur roulement.<br>
 Il embarque une camera pour la carte Raspberry PI
 
-L'oeil est composé de plusieurs pièces :
+***L'oeil est composé de plusieurs pièces :***
+
 - la sphere de diamètre 130mm - <a href="3D_STL/Oeil_130.stl">Oeil_130.stl</a>
 - un support pour la caméra - <a href="3D_STL/Oeil_Support_Cam.stl">Oeil_Support_Cam.stl</a>
 - le support de l'oeil - <a href="3D_STL/Oeil_Support.stl">Oeil_Support.stl</a>
@@ -98,12 +99,14 @@ L'oeil est composé de plusieurs pièces :
 
 - 3 roulements 608ZZ 8x22x7 <a href="https://www.amazon.fr/Roulements-Bearings-Skateboard-Longboard-Waveboard/dp/B07S3SZZST">amazon.fr...</a> <br>
 - une camera RPI grand angle 175° <a href="https://fr.aliexpress.com/item/32881466491.html">aliexpress.com...</a> <br>
-- 2 <strong>Servos moteurs</strong> numériques 30/35Kg.cm 180 degrés <a href="https://fr.aliexpress.com/item/32826867656.html">aliexpress.com...</a> <br>
+- <strong>2 Servos moteurs</strong> numériques 30/35Kg.cm 180 degrés <a href="https://fr.aliexpress.com/item/32826867656.html">aliexpress.com...</a> <br>
 
 
 <img src="img/oeil.JPG" width="90%">
 
 
+- Piéces imprimées --> [3D_STL](3D_STL)
+- Fichiers sources, au format Fusion 360 --> [3D_Fusion360](3D_Fusion360)
 
 ---
 ## La bouche
