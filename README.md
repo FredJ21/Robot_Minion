@@ -142,12 +142,7 @@ L'épaule est réalisée en impression 3D avec un servo moteur 30/35Kg et 2 roul
 
 
 <table width="100%">
-<td align="center"><img src="img/Epaule.gif" width="70%"></td>
-</table>
-
-
-<table width="100%">
-<tr><td align="center"><img src="img/Epaule.gif" width="70%"></td></tr>
+<tr><td align="center"><img src="img/Epaule.gif" width="90%"></td></tr>
 </table>
 
 
