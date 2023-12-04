@@ -174,7 +174,7 @@ L'épaule est réalisée en impression 3D avec un servo moteur 30/35Kg et 2 roul
 ## L'électronique de commande
 
 L'électronique embarqué est composé principalement :
-- d'une carte Raspberry PI et d'HAT de commande moteur
+- d'une carte Raspberry PI et un HAT de commande moteur https://github.com/FredJ21/Raspberry_PI_MotorDriverHat#readme
 - d'un amplificateur audio
 - d'un module WiFi USB
 - de 2 regulateurs 5V afin séparer l'alimentation du RPI et des servos moteurs
@@ -193,19 +193,12 @@ L'électronique embarqué est composé principalement :
  </tr>
 </tbody></table>
 
+***Schéma***
+
+![docs/RPI_diagram.JPG](docs/RPI_diagram.JPG)
 
 
-
-
-
-
-
-
-
-
-
-
-
+---
 
 ---
 
