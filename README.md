@@ -94,6 +94,7 @@ L'oeil est composé de plusieurs pièces :
 - l'axe - <a href="3D_STL/Oeil_Axe.stl">Oeil_Axe.stl</a>
 - le raccordement au plateau - <a href="3D_STL/Oeil_Raccord_Plateau.stl">Oeil_Raccord_Plateau.stl</a>
 
+<br>
 
 - 3 roulements 608ZZ 8x22x7 <a href="https://www.amazon.fr/Roulements-Bearings-Skateboard-Longboard-Waveboard/dp/B07S3SZZST">amazon.fr...</a> <br>
 - une camera RPI grand angle 175° <a href="https://fr.aliexpress.com/item/32881466491.html">aliexpress.com...</a> <br>
