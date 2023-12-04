@@ -10,8 +10,11 @@
 </tbody></table>   
 
 ---
+# Sommaire
 
-### Liste des pièces pièces réalisées en impression 3D
+---
+
+## Liste des pièces pièces réalisées en impression 3D
 
 <table  width="100%"><tbody>
 <tr>
@@ -43,7 +46,7 @@
 ---
 
 
-### Les autres pièces
+## Les autres pièces
 
 <table  width="100%"><tbody>
 <tr>
@@ -68,9 +71,10 @@
 
 ---
 
-### L'oeil
+## L'oeil
+
 ---
-### La bouche
+## La bouche
 
 La bouche est réalisée avec 2 servos moteurs, quelques pièces imprimées, et un petit "boudin" de silicone
 
@@ -87,7 +91,7 @@ Hé Hé ! <br>
 <img src="photos/Bouche_meca.JPG" width="50%">
 
 ---
-### Le mécanisme de l'épaule
+## Le mécanisme de l'épaule
 
 L'épaule est réalisée en impression 3D avec un servo moteur 30/35Kg et 2 roulements
 
@@ -99,7 +103,7 @@ L'épaule est réalisée en impression 3D avec un servo moteur 30/35Kg et 2 roul
 <img src="img/Epaule.gif" width="70%">
 
 ---
-### Le support de batterie
+## Le support de batterie
 ***Liens & info*** :
 - Batterie Parkside PAP 20 B3 - 20 V 4000mAh 80wh
 - Chargeur Parkside PLG 20 C3
