@@ -7,15 +7,17 @@ L'objectif de ce projet est de **concevoir** et **réaliser** un petit robot sym
 
 <img src="img/minion.gif" width=100px /><img src="img/minion.gif" width=150px /><img src="img/minion.gif" width=100px /><img src="img/minion.gif" width=100px /><img src="img/minion.gif" width=150px /><img src="img/minion.gif" width=100px />
 
-Mais plus généralement, l’objectif de ce projet est de disposer d'**une base robotique** d’étude et de tests**, qui offre quelques caractéristique et fonctionnalités intéressantes :
+Mais plus généralement, l’objectif de ce projet est de disposer d'**une base robotique** d’étude et de tests, simple, évolutives, et avec bien d'autres caractéristique et fonctionnalités intéressantes :
 
-* **Robustesse** , solidité
-   * châssis en fibre de bois médium qui pourra être également réalisé en aluminium
+* **Robustesse** , **solidité**
+   * châssis en fibre de bois médium facile à rélaliser et à modifier. Il pourra être également réalisé en aluminium
    * pièces principales en impression 3D
+
 * **Modularité**
    * utilisation de profilés aluminium permettant le positionnemlent des plateaux et des accessoires à la hauteur souhaitée
-   * matrice de trous pré percés lors de la réalisation du châssis permettant ainsi de positionner librement les différentes évolutions
-   * les pièces 3D disponibles pour éventuellement être modifiées, adaptées  
+   * matrice de trous pré percés lors de la réalisation du châssis et des plateaux , permettant ainsi de positionner librement les différents éléments et évolutions
+   * les pièces 3D disponibles pour éventuellement être modifiées, adaptées  (au format STL & Fusion360)
+
 * **Espace**
    * 54 cm séparent le châssis inférieur et le bas bas du chapeau ,
    * les profilés alu verticaux sont espacés de 150mm
@@ -25,7 +27,7 @@ Mais plus généralement, l’objectif de ce projet est de disposer d'**une base
    * mécaniquement par l’utilisation de 2 moteurs CC à fort couple , qui pourront être remplacé par des modèles plus puissant  si besoin
 
 * **Programmation** et **connectivité**
-   * Une carte Raspberry PI 4 au coeur du robot ( pouvant évoluer vers une version 5)
+   * Une carte Raspberry PI 4 au coeur du robot ( pouvant évoluer vers une version 5, bien entendu 😁 )
    * modules USB WiFi ou 4/5G
    * développement en Python (ou autre langage)
    * synthèse et reconnaissance vocal
