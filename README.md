@@ -2,11 +2,6 @@
 
 ***Introduction***
 
-<table  width="100%"><tbody>
-<tr><td width="100%">test</td></tr>
-</tbody></table>
-
-
 L'objectif de ce projet est de concevoir et réaliser un petit robot sympa, attractif, mignon, … un **MINION** !  
 
 
