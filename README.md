@@ -7,7 +7,7 @@ L'objectif de ce projet est de **concevoir** et **réaliser** un petit robot sym
 
 <img src="img/minion.gif" width=100px /><img src="img/minion.gif" width=150px /><img src="img/minion.gif" width=100px /><img src="img/minion.gif" width=100px /><img src="img/minion.gif" width=150px /><img src="img/minion.gif" width=100px />
 
-Mais plus généralement, l’objectif de ce projet est de disposer d'**une base robotique** d’étude et de tests, simple, évolutives, et avec bien d'autres caractéristique et fonctionnalités intéressantes :
+Mais plus globalement, l’objectif de ce projet est de disposer d'**une base robotique** d’étude et de tests, simple, évolutives, et avec bien d'autres caractéristique et fonctionnalités intéressantes :
 
 * **Robustesse** , **solidité**
    * châssis en fibre de bois médium facile à réaliser et à modifier. Il pourra être également réalisé en aluminium
