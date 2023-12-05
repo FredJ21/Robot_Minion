@@ -1,4 +1,4 @@
-# Projet Robot MINION
+# Le Projet "ROBOT MINION"
 
 ***Introduction***
 
@@ -7,7 +7,7 @@ L'objectif de ce projet est de **concevoir** et **réaliser** un petit robot sym
 
 <img src="img/minion.gif" width=100px /><img src="img/minion.gif" width=150px /><img src="img/minion.gif" width=100px /><img src="img/minion.gif" width=100px /><img src="img/minion.gif" width=150px /><img src="img/minion.gif" width=100px />
 
-Mais plus globalement, l’objectif de ce projet est de disposer d'**une base robotique** d’étude et de tests, simple, évolutives, et avec bien d'autres caractéristique et fonctionnalités intéressantes :
+Mais plus globalement, l’objectif de ce projet est de disposer d'**une base robotique** d’étude et de tests, simple, évolutives, et avec bien d'autres caractéristiques et fonctionnalités intéressantes :
 
 * **Robustesse** , **solidité**
    * châssis en fibre de bois médium facile à réaliser et à modifier. Il pourra être également réalisé en aluminium
@@ -21,7 +21,7 @@ Mais plus globalement, l’objectif de ce projet est de disposer d'**une base ro
 * **Espace**
    * 54 cm séparent le châssis inférieur et le bas bas du chapeau ,
    * les profilés alu verticaux sont espacés de 150 mm
-   * ce qui donne un volume utile intérieur de 15 x 15 x 54 cm , mais certain éléments peuvent être positionnés sur l’extérieur (comme les bras, par exemple)
+   * ce qui donne un volume utile intérieur de 15 x 15 x 54 cm , mais certains éléments peuvent être positionnés sur l’extérieur (comme les bras, par exemple)
 
 * **Puissance motrice**
    * mécaniquement par l’utilisation de 2 moteurs CC à fort couple , qui pourront être remplacé par des modèles plus puissant  si besoin
