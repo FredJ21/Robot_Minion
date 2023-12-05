@@ -51,7 +51,7 @@ Le robot, dans cette version, mesure environ 70 cm de haut, le chapeau supérieu
 
 
 ### Sommaire
-* Les pièces pièces réalisées en impression 3D
+* Les pièces réalisées en impression 3D
 * Les autres pièces
 * L'oeil
 * La bouche
@@ -65,7 +65,7 @@ Le robot, dans cette version, mesure environ 70 cm de haut, le chapeau supérieu
 
 ---
 
-## Les pièces pièces réalisées en impression 3D
+## Les pièces réalisées en impression 3D
 
 <table  width="100%"><tbody>
 <tr>
@@ -156,7 +156,7 @@ La bouche est réalisée avec 2 servos moteurs, quelques pièces imprimées, et 
 
 - Piéces imprimées
   - support pour les 2 moteurs --> [Bouche_1.stl](3D_STL/Bouche_1.stl)
-  - 2 bras --> [Bouche_2.stl](3D_STL/Bouche_2.stl)
+  - 2 tiges --> [Bouche_2.stl](3D_STL/Bouche_2.stl)
   - le couvercle --> [Bouche_Couvercle.stl](Bouche_Couvercle.stl)
 - Fichiers sources, au format Fusion 360 --> [3D_Fusion360](3D_Fusion360)
 
