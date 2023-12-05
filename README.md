@@ -10,18 +10,18 @@ L'objectif de ce projet est de **concevoir** et **réaliser** un petit robot sym
 Mais plus généralement, l’objectif de ce projet est de disposer d'**une base robotique** d’étude et de tests, simple, évolutives, et avec bien d'autres caractéristique et fonctionnalités intéressantes :
 
 * **Robustesse** , **solidité**
-   * châssis en fibre de bois médium facile à rélaliser et à modifier. Il pourra être également réalisé en aluminium
+   * châssis en fibre de bois médium facile à réaliser et à modifier. Il pourra être également réalisé en aluminium
    * pièces principales en impression 3D
 
 * **Modularité**
-   * utilisation de profilés aluminium permettant le positionnemlent des plateaux et des accessoires à la hauteur souhaitée
+   * utilisation de profilés aluminium permettant le positionnement  des plateaux et des accessoires à la hauteur souhaitée
    * matrice de trous pré percés lors de la réalisation du châssis et des plateaux , permettant ainsi de positionner librement les différents éléments et évolutions
    * les pièces 3D disponibles pour éventuellement être modifiées, adaptées  (au format STL & Fusion360)
 
 * **Espace**
    * 54 cm séparent le châssis inférieur et le bas bas du chapeau ,
-   * les profilés alu verticaux sont espacés de 150mm
-   * ce qui donne un volume utile intérieur de 15x15x54 cm , mais certain éléments peuvent être positionnés sur l’extérieur (comme les bras, par exemple)
+   * les profilés alu verticaux sont espacés de 150 mm
+   * ce qui donne un volume utile intérieur de 15 x 15 x 54 cm , mais certain éléments peuvent être positionnés sur l’extérieur (comme les bras, par exemple)
 
 * **Puissance motrice**
    * mécaniquement par l’utilisation de 2 moteurs CC à fort couple , qui pourront être remplacé par des modèles plus puissant  si besoin
@@ -37,7 +37,7 @@ Mais plus généralement, l’objectif de ce projet est de disposer d'**une base
    * on pourra greffer à souhait un certain nombre de capteurs, actionneurs, ou autres systèmes électroniques
    * l’objectif est bien évidemment de faire évoluer les éléments du robot , bras, tête, motricité …
 
-Le robot, dans cette version, mesure environ 70cm de haut, le chapeau supérieur et les plateaux ont un diamètre de 250mm, l'empattement des roues avant/arrière est d’environ 300mm .
+Le robot, dans cette version, mesure environ 70 cm de haut, le chapeau supérieur et les plateaux ont un diamètre de 250 mm, l'empattement des roues avant/arrière est d’environ 300 mm.
 
 🤔 La ressemblance est toute relative, mais il y a bien un petit aire de famille !!! 😜
 
