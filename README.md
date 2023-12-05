@@ -2,18 +2,18 @@
 
 ***Introduction***
 
-L'objectif de ce projet est de concevoir et réaliser un petit robot sympa, attractif, mignon, … un **MINION** !  
+L'objectif de ce projet est de **concevoir** et **réaliser** un petit robot sympa, attractif, mignon, … un **MINION** !  
 
 
 <img src="img/minion.gif" width=100px /><img src="img/minion.gif" width=150px /><img src="img/minion.gif" width=100px /><img src="img/minion.gif" width=100px /><img src="img/minion.gif" width=150px /><img src="img/minion.gif" width=100px />
 
-Mais plus généralement, l’objectif de ce projet est de réaliser les bases d’**une plateforme robotique d’étude et de tests**, offrant quelques caractéristique et fonctionnalités intéressantes :
+Mais plus généralement, l’objectif de ce projet est de disposer d'**une base robotique** d’étude et de tests**, qui offre quelques caractéristique et fonctionnalités intéressantes :
 
 * **Robustesse** , solidité
    * châssis en fibre de bois médium qui pourra être également réalisé en aluminium
    * pièces principales en impression 3D
 * **Modularité**
-   * utilisation de profilés aluminium permettant le positionnemlent des plateaux et des accessoires à différentes hauteurs
+   * utilisation de profilés aluminium permettant le positionnemlent des plateaux et des accessoires à la hauteur souhaitée
    * matrice de trous pré percés lors de la réalisation du châssis permettant ainsi de positionner librement les différentes évolutions
    * les pièces 3D disponibles pour éventuellement être modifiées, adaptées  
 * **Espace**
