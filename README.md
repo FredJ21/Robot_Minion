@@ -2,7 +2,7 @@
 
 ***Introduction***
 
-L'objectif de ce projet est de **concevoir** et **réaliser** un petit robot sympa, attractif, mignon, … un **MINION** !  
+L'objectif de ce projet est de **concevoir** et **réaliser** un petit robot sympa, attractif, mignon, … un **MINION** 🤩 !  
 
 
 <img src="img/minion.gif" width=100px /><img src="img/minion.gif" width=150px /><img src="img/minion.gif" width=100px /><img src="img/minion.gif" width=100px /><img src="img/minion.gif" width=150px /><img src="img/minion.gif" width=100px />
@@ -39,6 +39,7 @@ Mais plus généralement, l’objectif de ce projet est de disposer d'**une base
 
 Le robot, dans cette version, mesure environ 70cm de haut, le chapeau supérieur et les plateaux ont un diamètre de 250mm, l'empattement des roues avant/arrière est d’environ 300mm .
 
+🤔 La ressemblance est toute relative, mais il y a bien un petit aire de famille !!! 😜
 
 <table  width="100%"><tbody>
 <tr>
