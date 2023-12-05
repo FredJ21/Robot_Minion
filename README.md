@@ -259,6 +259,10 @@ L'électronique embarqué est composé principalement :
 
 ### Authors
 Frederic JELMONI
+https://www.youtube.com/@fred-robotic
+https://www.facebook.com/fredrobotic
+
+
 
 ### MIT License
 Permission is hereby granted, free of charge, to any person obtaining a copy
