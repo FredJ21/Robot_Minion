@@ -3,6 +3,9 @@
 
 L'objectif de ce projet est de concevoir et réaliser un petit robot sympa, attractif, mignon, … un **MINION** !  
 
+
+<img src="img/minion.gif" width=100px /><img src="img/minion.gif" width=150px /><img src="img/minion.gif" width=100px /><img src="img/minion.gif" width=100px /><img src="img/minion.gif" width=150px />
+
 Mais plus généralement, l’objectif de ce projet est de réaliser les bases d’**une plateforme robotique d’étude**, offrant quelques caractéristique et fonctionnalités intéressantes :
 
 * **Robustesse** , solidité
