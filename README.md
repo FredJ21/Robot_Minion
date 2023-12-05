@@ -3,7 +3,7 @@
 ***Introduction***
 
 <table  width="100%"><tbody>
-<tr><td>test</td></tr>
+<tr><td width="100%">test</td></tr>
 </tbody></table>
 
 
