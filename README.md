@@ -1,5 +1,11 @@
 # Projet Robot MINION
+
 ***Introduction***
+
+<table  width="100%"><tbody>
+<tr><td>test</td></tr>
+</tbody></table>
+
 
 L'objectif de ce projet est de concevoir et réaliser un petit robot sympa, attractif, mignon, … un **MINION** !  
 
@@ -14,7 +20,7 @@ Mais plus généralement, l’objectif de ce projet est de réaliser les bases d
 * **Modularité**
    * utilisation de profilés aluminium permettant le positionnemlent des plateaux et des accessoires à différentes hauteurs
    * matrice de trous pré percés lors de la réalisation du châssis permettant ainsi de positionner librement les différentes évolutions
-   * ensemble des pièces 3D disponible pour éventuellement être modifiées, adaptées  
+   * les pièces 3D disponibles pour éventuellement être modifiées, adaptées  
 * **Espace**
    * 54 cm séparent le châssis inférieur et le bas bas du chapeau ,
    * les profilés alu verticaux sont espacés de 150mm
@@ -31,7 +37,7 @@ Mais plus généralement, l’objectif de ce projet est de réaliser les bases d
    * traitement et tracking vidéo , computer vision
 
 * **Evolutions**
-   * bien évidemment, on pourra greffer à souhait un certain nombre de capteurs, actionneurs, ou autres systèmes électroniques
+   * on pourra greffer à souhait un certain nombre de capteurs, actionneurs, ou autres systèmes électroniques
    * l’objectif est bien évidemment de faire évoluer les éléments du robot , bras, tête, motricité …
 
 Le robot, dans cette version, mesure environ 70cm de haut, le chapeau supérieur et les plateaux ont un diamètre de 250mm, l'empattement des roues avant/arrière est d’environ 300mm .
