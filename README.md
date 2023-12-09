@@ -10,11 +10,11 @@ L'objectif de ce projet est de **concevoir** et **réaliser** un petit robot sym
 Mais plus globalement, l’objectif de ce projet est de disposer d'**une base robotique** d’étude et de tests, simple, évolutives, et avec bien d'autres caractéristiques et fonctionnalités intéressantes :
 
 * **Robustesse** , **solidité**
-   * châssis en fibre de bois médium facile à réaliser et à modifier. Il pourra être également réalisé en aluminium
-   * pièces principales en impression 3D
+   * châssis en fibre de bois médium facile à modifier et réaliser (Découpe Laser). Il pourra également être réalisé en aluminium
+   * pièces principales en impression 3D (en PLA ou PETG)
 
 * **Modularité**
-   * utilisation de profilés aluminium permettant le positionnement  des plateaux et des accessoires à la hauteur souhaitée
+   * utilisation de profilés en aluminium 15x15 qui permettent de positionner les plateaux et des accessoires à la hauteur souhaitée
    * matrice de trous pré percés lors de la réalisation du châssis et des plateaux , permettant ainsi de positionner librement les différents éléments et évolutions
    * les pièces 3D disponibles pour éventuellement être modifiées, adaptées  (au format STL & Fusion360)
 
@@ -24,10 +24,10 @@ Mais plus globalement, l’objectif de ce projet est de disposer d'**une base ro
    * ce qui donne un volume utile intérieur de 15 x 15 x 54 cm , mais certains éléments peuvent être positionnés sur l’extérieur (comme les bras, par exemple)
 
 * **Puissance motrice**
-   * mécaniquement par l’utilisation de 2 moteurs CC à fort couple , qui pourront être remplacé par des modèles plus puissant  si besoin
+   * motricité par l’utilisation de 2 moteurs CC à fort couple , qui pourront être remplacé par des modèles plus puissant si besoin
 
 * **Programmation** et **connectivité**
-   * Une carte Raspberry PI 4 au coeur du robot ( pouvant évoluer vers une version 5, bien entendu 😁 )
+   * Une carte Raspberry PI 4 au coeur du robot 🥳 !!! ( pouvant évoluer vers une version 5, bien entendu 😁 )
    * modules USB WiFi ou 4/5G
    * développement en Python (ou autre langage)
    * synthèse et reconnaissance vocal
@@ -35,7 +35,7 @@ Mais plus globalement, l’objectif de ce projet est de disposer d'**une base ro
 
 * **Evolutions**
    * on pourra greffer à souhait un certain nombre de capteurs, actionneurs, ou autres systèmes électroniques
-   * l’objectif est bien évidemment de faire évoluer les éléments du robot , bras, tête, motricité …
+   * **l’objectif est bien évidemment de faire évoluer** les éléments du robot , bras, tête, motricité …
 
 Le robot, dans cette version, mesure environ 70 cm de haut, le chapeau supérieur et les plateaux ont un diamètre de 250 mm, l'empattement des roues avant/arrière est d’environ 300 mm.
 
