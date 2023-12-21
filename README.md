@@ -7,7 +7,7 @@ L'objectif de ce projet est de **concevoir** et **réaliser** un petit robot sym
 
 <img src="img/minion.gif" width=100px /><img src="img/minion.gif" width=150px /><img src="img/minion.gif" width=100px /><img src="img/minion.gif" width=100px /><img src="img/minion.gif" width=150px /><img src="img/minion.gif" width=100px />
 
-Mais plus globalement, l’objectif de ce projet est de disposer d'**une base robotique** d’étude et de tests, simple, évolutives, et avec bien d'autres caractéristiques et fonctionnalités intéressantes :
+Mais plus globalement, l’objectif de ce projet est de disposer d'**une base robotique** d’étude et de tests, simple, évolutive, et avec bien d'autres caractéristiques et fonctionnalités intéressantes :
 
 * **Robustesse** , **solidité**
    * châssis en fibre de bois médium facile à modifier et réaliser (Découpe Laser). Il pourra également être réalisé en aluminium
@@ -236,7 +236,9 @@ L'électronique embarquée est composée principalement :
 
 ![docs/RPI_diagram.JPG](docs/RPI_diagram.JPG)
 
+***Raspberry PI - PinOut***
 
+![docs/Raspberry_PI_Pinout.jpg](docs/Raspberry_PI_Pinout.jpg)
 ---
 
 ---
