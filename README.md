@@ -233,11 +233,40 @@ L'électronique embarquée est composée principalement :
  </tr>
 </tbody></table>
 
-***Schéma***
+***Schéma global***
 
-Schéma de principe avec la carte Raspberry PY, la carte d'extension (HAT drivers moteurs), et les éléments périphériques.
+Schéma de principe avec la carte Raspberry PI, la carte d'extension (HAT drivers moteurs), et les éléments périphériques.
+
 
 ![docs/RPI_diagram.JPG](docs/RPI_diagram.JPG)
+
+***Schéma de raccordement***
+
+La carte d'extention permet de raccorder 3 alimentations distinctes :
+- la tension directe de la batterie ~ 20V , pour l'alimentation des moteurs
+- une tention régulée de 5V pour les servos moteurs
+- une tention régulée de 5V pour la carte Raspberry PI
+
+Les 2 moteurs CC ( pour le déplacement du robot ) sont raccordées à la carte d'extention
+- GPIO 24 & 25 --> Mosfets moteur droit
+- GPIO 26 & 27 --> Mosfets moteur gauche
+
+Les servos moteurs sont raccordés aux sorties :
+- GPIO 5 --> Oeil X
+- GPIO 6 --> Oeil Y
+- GPIO 12 --> Bras Droit
+- GPIO 13 --> Bras Gauche
+- GPIO 7 --> Bouche moteur Droit
+- GPIO 8 --> Bouche moteur Gauche
+
+
+De plus, la carte dispose d'autres GPIO libres , et de :
+- GPIO 18 --> buzzer
+- GPIO 19 --> Bouton poussoir
+
+
+![RPI_MotorDriverHat.png](docs/RPI_MotorDriverHat.png)
+
 
 ***Raspberry PI - PinOut***
 
