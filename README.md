@@ -271,7 +271,18 @@ De plus, la carte dispose d'autres GPIO libres , et de :
 ***Raspberry PI - PinOut***
 
 ![docs/Raspberry_PI_Pinout.jpg](docs/Raspberry_PI_Pinout.jpg)
+
 ---
+
+## Programmation
+
+Le programme de gestion et son interface Web sont toujours en cours de développement ...
+... mais je tente de stabliser et simplifier l'installation, ainsi que le packaging .... dans en autre Repos Git  :
+( actuellement en cours de construction ) 
+
+https://github.com/FredJ21/Robot_Minion_Dev
+
+
 
 ---
 
